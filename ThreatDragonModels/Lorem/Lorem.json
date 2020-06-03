@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "Lorem",
-    "owner": "Olga Owner"
+    "owner": "Olga Owner",
+    "description": "Lorem ipsum dolor sit amet."
   },
   "detail": {
     "contributors": [],
